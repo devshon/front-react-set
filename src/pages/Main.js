@@ -1,7 +1,7 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-import List from "../components/List";
+import List from "components/List";
 
 import styled from "styled-components";
 
